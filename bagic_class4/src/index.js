@@ -1,4 +1,4 @@
-// ESM 모듈 방식 입니다.
+
 import express from "express";
 
 const app = express();
